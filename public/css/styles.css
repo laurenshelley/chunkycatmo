@@ -13,4 +13,6 @@ nav ul li {
   list-style: none;
   background-color: black;
   color: white;
+  margin: 0;
+  padding: 0;
 }
