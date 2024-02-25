@@ -9,10 +9,25 @@
 list-style: none;
 }
 
-nav ul li {
+
+/* menu */
+ul {
   list-style: none;
-  background-color: black;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  display: block;
+  padding: 8px;
   color: white;
-  margin: 0;
-  padding: 0;
+  background-color: black;
+}
+a:hover {
+  display: block;
+  padding: 10px;
+  color: white;
+  background-color: green;
 }
