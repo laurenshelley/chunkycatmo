@@ -4,3 +4,13 @@
 *:after {
   box-sizing: border-box;
 }
+
+.sitenName {
+list-style: none;
+}
+
+nav ul li {
+  list-style: none;
+  background-color: black;
+  color: white;
+}
