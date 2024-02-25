@@ -18,14 +18,15 @@ ul {
 li {
   display: inline;
 }
-
-a {
+li a {
   display: block;
   padding: 8px;
   color: white;
   background-color: black;
 }
-a:hover {
+
+
+li a:hover {
   display: block;
   padding: 10px;
   color: white;
