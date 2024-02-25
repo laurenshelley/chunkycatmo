@@ -17,7 +17,9 @@ ul {
 
 li {
   display: inline;
+  background-color: black;
 }
+
 li a {
   display: block;
   padding: 8px;
