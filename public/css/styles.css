@@ -36,8 +36,9 @@ header {
 
 a {
   text-decoration: none;
-  color: red;
+  color: rgb(83, 83, 83);
 }
+
 
 .siteName {
   font-size: 30px;
@@ -134,9 +135,6 @@ button:hover {
   width: 100%;
 }
 
-.upgrades a {
-  color: rgb(83, 83, 83);
-}
 
 .upgrades span {
   padding: 1em;
