@@ -134,6 +134,10 @@ button:hover {
   width: 100%;
 }
 
+.upgrades a {
+  color: grey;
+}
+
 .upgrades span {
   padding: 1em;
   margin: 5%;
@@ -169,6 +173,7 @@ padding: 0em 1em 0em 1em;
   margin-top: 10%;
   text-decoration: none;
 }
+
 
 
 @media (max-width: 767px) {
